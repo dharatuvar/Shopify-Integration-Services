@@ -14,27 +14,27 @@ We have a team of talented Shopify developers that can perform the integration s
 
 ## Benefits of Shopify Integration Service
 
-•       Enhanced customer experience
-•       Reduces the chances of error
-•       Automates business processes
-•       Minimizes manual efforts
-•       Saves time & money
+*       Enhanced customer experience
+*       Reduces the chances of error
+*       Automates business processes
+*       Minimizes manual efforts
+*       Saves time & money
 
 ## Our Expertise in Shopify Integration Service
 
-•       Shopify Payment Gateway Integration
-•       Shopify ERP Integration
-•       Shopify CRM Integration
-•       Shopify POS Integration
-•       Shopify Shipping Services Integration
-•       Shopify Social Media Integration
+*      Shopify Payment Gateway Integration
+*      Shopify ERP Integration
+*      Shopify CRM Integration
+*      Shopify POS Integration
+*      Shopify Shipping Services Integration
+*      Shopify Social Media Integration
 
 ## Why Choose Meetanshi?
 
-•       Seasoned Professionals
-•       Timely Delivery
-•       Best-in-market pricing
-•       Excellent customer service
+*       Seasoned Professionals
+*      Timely Delivery
+*      Best-in-market pricing
+*      Excellent customer service
 
 
 For more information, visit [https://meetanshi.com/shopify-integration-services.html](https://meetanshi.com/shopify-integration-services.html)
